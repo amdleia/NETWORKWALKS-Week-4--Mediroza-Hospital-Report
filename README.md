@@ -1,8 +1,8 @@
 # Week 4 – Web Security Assessment
 
-For Week 4 of my cybersecurity internship with **NetworkWalks**, I worked on a black-box web security assessment. 💻
+For Week 4 of my cybersecurity internship with **NetworkWalks**, I worked on a black-box web security assessment. 
 
-The main goal was to get more hands-on experience with identifying security weaknesses in a web application and understanding how different findings can connect during an assessment. 🔎
+The main goal was to get more hands-on experience with identifying security weaknesses in a web application and understanding how different findings can connect during an assessment. 
 
 ## What I Worked On
 
