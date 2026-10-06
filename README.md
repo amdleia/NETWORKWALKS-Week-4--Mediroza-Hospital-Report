@@ -47,4 +47,4 @@ For confidentiality and privacy purposes, sensitive information such as username
 
 
 **Internship:** NETWORKWALKS
-**Project:** Week 4 – Black-Box Web Security Assessment 🔐
+**Project:** Week 4 – Black-Box Web Security Assessment 
